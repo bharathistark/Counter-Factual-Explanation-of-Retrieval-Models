@@ -9,9 +9,17 @@ Pyserini is a Python toolkit for reproducible information retrieval research wit
 ## install
 
 ```
-pip install pyserini dice-ml faiss-cpu --no-cache numpy
+pip install pyserini 
 ```
-
+```
+pip install dice-ml
+```
+```
+pip install faiss-cpu --no-cache 
+```
+```
+pip install numpy
+```
 Dependencies:
 
 - [pytorch](https://pytorch.org) <3
